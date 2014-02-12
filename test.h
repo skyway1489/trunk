@@ -1,1 +1,4 @@
-void ffun();
+void fsfun()
+{
+
+}
